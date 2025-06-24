@@ -12,3 +12,4 @@
 (Please download the Unity version specified above. Lower versions of Unity files may not run.)
 ### 유니티 프로젝트를 열고 난 후 아무것도 보이지 않을 때(Nothing visible after the Open Unity Project)
 - 유니티 프로그램에서 asset > scenes 에 있는 유니티 파일 2개를 오픈하세요
+(In your Unity program, open the two Unity files located in assets > scene.)
