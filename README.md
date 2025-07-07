@@ -8,8 +8,10 @@
 
 ## 다운 후 오류 시(you get problem that after clone? Follow this) / 25.06.24
 ### 유니티 버전 오류(Unity Version Error)
-- 위 명시한 유니티 버전으로 다운 받으세요 낮은 버전의 유니티 파일이 실행안될 수 도 있습니다.\n
+- 위 명시한 유니티 버전으로 다운 받으세요 낮은 버전의 유니티 파일이 실행안될 수 도 있습니다.</br>
 (Please download the Unity version specified above. Lower versions of Unity files may not run.)
 ### 유니티 프로젝트를 열고 난 후 아무것도 보이지 않을 때(Nothing visible after the Open Unity Project)
-- 유니티 프로그램에서 asset > scenes 에 있는 유니티 파일 2개를 오픈하세요\n
+- 유니티 프로그램에서 asset > scenes 에 있는 유니티 파일 2개를 오픈하세요</br>
 (In your Unity program, open the two Unity files located in assets > scene.)
+
+_end_
